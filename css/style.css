@@ -1,6 +1,5 @@
 body {
     background: conic-gradient(from 45deg, rgb(241, 225, 221), rgb(190, 254, 247), rgb(246, 246, 201), rgb(176, 250, 176), rgb(224, 193, 120), rgb(248, 248, 244));
-    font-family:;
     font-family: "Arkipelago";
     font-size: 1.5em;
 }
@@ -74,14 +73,6 @@ nav {
 .title {
 text-align: center;
 }
-
-/*ul {
-    list-style-type: symbols(width: 20px;
-    height: 32px;
-    background-color: #e888a3;
-
-    clip-path: polygon(0 0, 0 100%, 100% 50%););
-}*/
 
 .container {
     display: flex;
