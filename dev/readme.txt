@@ -8,3 +8,5 @@ Cahier des charges:
 	- la durée
 	- la photo de l'album
 	- le nom de l'album avec l'année de sortie
+	
+Technologies utilisées : html et CSS.
