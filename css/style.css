@@ -22,8 +22,10 @@ body {
     src: url(../fonts/yumin.ttf) format("truetype");
 }
 
+/*home page*/
 h1 {
     font-family: "Yozakura";
+    text-align: center;
 }
 
 ul {
@@ -146,4 +148,20 @@ aside>article {
 footer {
     padding-top: 5%;
     text-align: center;
+}
+
+/*song pages*/
+
+.songPhoto,table,.video {
+    display:flex;
+    justify-content: center;
+    margin-top:5% ;
+}
+
+table {
+    text-align: left;
+}
+
+th {
+    padding-right: 20px;
 }
