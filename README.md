@@ -11,4 +11,4 @@ Project specifications from the client:
 	- a photo from the album it was taken from
 	- the title of the album and the year it came out
 	
-Technology used: html and CSS.
+Technology used: HTML and CSS.
